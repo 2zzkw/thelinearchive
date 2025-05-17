@@ -1,4 +1,4 @@
 ## loadstring:
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ChocolateDrink/ChocolateHub/refs/heads/main/loader.luau'))()
+https://raw.githubusercontent.com/2zzkw/thelinearchive/refs/heads/main/loader.luau
 ```
